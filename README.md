@@ -4,7 +4,7 @@ Tattoo Request Form for Client
  <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-Request form for tattoo client that's used to gather custom information in order to help Tattoo Artist stretch his o her legs artistically. 
+Request form for tattoo client that's used to gather custom information in order to help Tattoo Artist stretch his or her legs artistically. 
 
 <br />
 
